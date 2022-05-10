@@ -1,3 +1,8 @@
+Julius: 1 & 5
+Alex: 2 & 4
+Robert: 3 & 6
+Fælles: 7
+
 https://www.kaggle.com/datasets/muhmores/spotify-top-100-songs-of-20152019
 I dette projekt har vi tænkt os at lave nogle forskellige statiske udregninger ud fra datasettet 'Spotify Top 100 Songs of 2010-2019’. Vi vil bruge pandas og numpy til dataudtrækning og datamanipulation fra vores dataset, samt vil vi bruge selenium til at webscrape sangtekster fra https://genius.com/
 Vi regner bl.a. med at bruge genre, bpm, pop, artist type, dur, val og dnce som vores feature vektor. Vi vil svare på følgende spørgsmål vha. disse oplysninger:
@@ -24,4 +29,4 @@ Vi regner bl.a. med at bruge genre, bpm, pop, artist type, dur, val og dnce som 
     b.	Her vil vi bruge matplotlib til at lave en 3D graf
 
 7.	Sentiment analysis på top-5 mest populære sange
-    a.	Webscaper sangteksterne
+    a.	Webscraper sangteksterne
