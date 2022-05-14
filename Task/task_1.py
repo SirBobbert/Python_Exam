@@ -5,8 +5,8 @@
 """
 import pandas as pd
 
-data = pd.read_csv('./spotify_data.csv', skiprows=0)
-#print(data)
+data = pd.read_csv('./spotify_data.csv', skiprows=0) # Our DataSheet with all the data.
+
 dance_pop = data[(data['top genre']=='dance pop')]
 dance_pop = dance_pop.sort_values('pop', ascending=False).head(5)
 dance_pop_average = (dance_pop['bpm'].sum()/5)
