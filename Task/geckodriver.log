@@ -1,25 +1,6 @@
-xcb_connection_has_error() returned true
-Home directory not accessible: Permission denied
-[Child 992, MediaDecoderStateMachine #1] WARNING: 7fa4691415c0 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
-[Child 992, MediaDecoderStateMachine #1] WARNING: Decoder=7fa465378400 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 xcb_connection_has_error() returned true
 Home directory not accessible: Permission denied
-[Child 1549, MediaDecoderStateMachine #1] WARNING: 7fe27a2cdd40 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
-[Child 1549, MediaDecoderStateMachine #1] WARNING: Decoder=7fe2784f6400 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
-JavaScript warning: https://pagead2.googlesyndication.com/bg/AAcrpHDydyl_zLrsUqLIoJaIpM6fuyfNuw3JGtq9cUA.js line 1 > eval line 4909 > eval line 1 > eval line 1 > eval, line 1: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
-JavaScript warning: https://pagead2.googlesyndication.com/bg/AAcrpHDydyl_zLrsUqLIoJaIpM6fuyfNuw3JGtq9cUA.js line 1 > eval line 4909 > eval line 1 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
-* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
-* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
-xcb_connection_has_error() returned true
-Home directory not accessible: Permission denied
-[Child 2010, MediaDecoderStateMachine #1] WARNING: 7fdba019d5c0 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
-[Child 2010, MediaDecoderStateMachine #1] WARNING: Decoder=7fdb9d421500 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
-xcb_connection_has_error() returned true
-Home directory not accessible: Permission denied
-[Child 1549, MediaDecoderStateMachine #1] WARNING: 7fe27a2cdd40 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
-[Child 1549, MediaDecoderStateMachine #1] WARNING: Decoder=7fe286cd0e00 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
-JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
-1653082112937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebqqtpl"
-*** You are running in headless mode.
+[Child 992, MediaDecoderStateMachine #1] WARNING: 7fa46948c790 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
+[Child 992, MediaDecoderStateMachine #1] WARNING: Decoder=7fa466e16a00 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
