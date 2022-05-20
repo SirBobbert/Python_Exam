@@ -4,3 +4,26 @@ xcb_connection_has_error() returned true
 Home directory not accessible: Permission denied
 [Child 992, MediaDecoderStateMachine #1] WARNING: 7fa46948c790 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
 [Child 992, MediaDecoderStateMachine #1] WARNING: Decoder=7fa466e16a00 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 3154, MediaDecoderStateMachine #1] WARNING: 7f12bb1945b0 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
+[Child 3154, MediaDecoderStateMachine #1] WARNING: Decoder=7f12b63e6300 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 2010, MediaDecoderStateMachine #1] WARNING: 7fdba1a42e20 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
+[Child 2010, MediaDecoderStateMachine #1] WARNING: Decoder=7fdb9c7c1c00 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 691, MediaDecoderStateMachine #1] WARNING: 7f94753734c0 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
+[Child 691, MediaDecoderStateMachine #1] WARNING: Decoder=7f947119f500 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 1549, MediaDecoderStateMachine #1] WARNING: 7fe27a2395c0 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
+[Child 1549, MediaDecoderStateMachine #1] WARNING: Decoder=7fe277dbbe00 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
+xcb_connection_has_error() returned true
+Home directory not accessible: Permission denied
+[Child 4956, MediaDecoderStateMachine #1] WARNING: 7f6d909f5980 OpenCubeb() failed to init cubeb: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/AudioStream.cpp:324
+[Child 4956, MediaDecoderStateMachine #1] WARNING: Decoder=7f6d908dcf00 [OnMediaSinkAudioError]: file /build/firefox-vat9pS/firefox-96.0+build2/dom/media/MediaDecoderStateMachine.cpp:4017
