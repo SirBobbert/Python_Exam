@@ -1,20 +1,22 @@
-from task_1 import *
-from task_5 import *
+import sys
+# Inserting the path of our taks/modules folder.
+sys.path.insert(0, "/home/jovyan/my_notebooks/Python_Exam/Task")
+import task_1,task_5
 
 print('\n /-----\ Task One! /-----\ \n')
-task1()
+task_1.run()
 
 print('\n /-----\ Task Two! /-----\ \n')
-#task2()
+#task_2.run()
 
 print('\n /-----\ Task Three! /-----\ \n')
-#task3()
+#task_3.run()
 
 print('\n /-----\ Task Four! /-----\ \n')
-#task4()
+#task_4.run()
 
 print('\n /-----\ Task Five! /-----\ \n')
-task5()
+task_5.run()
 
 print('\n /-----\ Task Six! /-----\ \n')
-#task6()
+#task_6.run()

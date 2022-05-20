@@ -1,6 +1,6 @@
 import pandas as pd
 
-def task1() :
+def run() :
     data = pd.read_csv('./spotify_data.csv', skiprows=0)                # Reading our DataSheet with all the data into a dataframe.
     genres = ['dance pop', 'modern alternative rock', 'acoustic pop']   # Our 3 chosen genres for this assignment.
     for x in genres : 
